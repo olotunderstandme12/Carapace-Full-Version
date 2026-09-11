@@ -232,3 +232,6 @@ This repository serves as the official landing page for Carapace. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Carapace today!**
+
+---
+**Last updated:** 2026-09-11 13:27:35 UTC
