@@ -234,4 +234,4 @@ This repository serves as the official landing page for Carapace. The software i
 **Get the most recent version of Carapace today!**
 
 ---
-**Last updated:** 2026-11-03 20:52:27 UTC
+**Last updated:** 2026-11-04 01:09:44 UTC
